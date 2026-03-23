@@ -1,0 +1,7 @@
+{
+    "opencv-python": ["numpy"],
+    "pyautogui": ["Pillow", "pymsgbox", "pyscreeze", "pygetwindow", "mouseinfo"],
+    "pyscreeze": ["Pillow"],
+    "mouseinfo": ["Pillow"],
+    "requests": ["urllib3", "certifi", "idna", "charset_normalizer"]
+}
