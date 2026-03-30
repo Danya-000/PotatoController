@@ -1,11 +1,8 @@
 {
-    "requests": "requests",
     "pynput": "pynput",
     "numpy": "numpy",
-    "pyautogui": "pyautogui",
     "keyboard": "keyboard",
     "PIL": "PIL",
-    "Pillow": "PIL",
     "cryptography": "cryptgraphy",
     "pycryptography": "cryptography"
 }
