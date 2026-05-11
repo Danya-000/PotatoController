@@ -1,6 +1,5 @@
 {
     "opencv-python": ["numpy"],
     "cv2": ["numpy"],
-    "opencv": ["numpy"],
-    "mouseinfo": ["Pillow"]
+    "opencv": ["numpy"]
 }
