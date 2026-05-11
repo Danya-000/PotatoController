@@ -1,8 +1,8 @@
 {
     "pynput": "pynput",
-    "numpy": "numpy",
     "keyboard": "keyboard",
     "PIL": "PIL",
-    "cryptography": "cryptgraphy",
-    "pycryptography": "cryptography"
+    "Pillow": "Pillow",
+    "cv2": "cv2",
+    "MController": "MController"
 }
