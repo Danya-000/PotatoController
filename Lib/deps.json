@@ -2,5 +2,5 @@
     "opencv-python": ["numpy"],
     "cv2": ["numpy"],
     "opencv": ["numpy"],
-    "MController": ["Pillow"]
+    "MController": ["Pillow", "keyboard"]
 }
