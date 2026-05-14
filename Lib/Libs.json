@@ -3,6 +3,5 @@
     "keyboard": "keyboard",
     "PIL": "PIL",
     "Pillow": "Pillow",
-    "cv2": "cv2",
     "MController": "MController"
 }
