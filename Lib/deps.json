@@ -1,5 +1,3 @@
 {
-    "cv2": ["numpy"],
-    "opencv": ["numpy"],
     "MController": ["Pillow", "keyboard"]
 }
