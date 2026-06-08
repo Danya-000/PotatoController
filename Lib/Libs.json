@@ -1,8 +1,8 @@
 {
-    "pynput": "pynput",
-    "keyboard": "keyboard",
-    "PIL": "PIL",
-    "Pillow": "Pillow",
     "MController": "MController",
-    "lz4": "lz4"
+    "PIL": "PIL",
+    "keyboard": "keyboard",
+    "lz4": "lz4",
+    "numpy": "numpy",
+    "pynput": "pynput"
 }
