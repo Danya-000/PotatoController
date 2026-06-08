@@ -4,5 +4,6 @@
     "keyboard": "keyboard",
     "lz4": "lz4",
     "numpy": "numpy",
+    "psutil": "psutil",
     "pynput": "pynput"
 }
