@@ -2,12 +2,12 @@
     "MController": "MController",
     "keyboard": "keyboard",
     "pynput": "pynput",
-    
-    "PIL": "PIL",
+    "mss": "mss",
     
     "lz4": "lz4",
     
     "psutil": "psutil",
+    "PIL": "PIL",
     
     "Crypto": "Cryptodome",
     
