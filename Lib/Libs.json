@@ -1,10 +1,16 @@
 {
     "MController": "MController",
-    "PIL": "PIL",
     "keyboard": "keyboard",
-    "lz4": "lz4",
+    
+    "PIL": "PIL",
+    
+    "lz4": "lz4",'
+    
+    "psutil": "psutil",
+    "pynput": "pynput",
+    
+    "Crypto": "Cryptodome"
+    
     "numpy": "numpy",
     "numpy.libs": "numpy.libs",
-    "psutil": "psutil",
-    "pynput": "pynput"
 }
