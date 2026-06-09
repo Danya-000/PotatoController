@@ -1,3 +1,4 @@
 {
-    "MController": ["Pillow", "keyboard"]
+    "MController": ["mss", "keyboard"],
+    "numpy": ["numpy.libs"]
 }
