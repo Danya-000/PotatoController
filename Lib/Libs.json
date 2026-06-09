@@ -4,13 +4,13 @@
     
     "PIL": "PIL",
     
-    "lz4": "lz4",'
+    "lz4": "lz4",
     
     "psutil": "psutil",
     "pynput": "pynput",
     
-    "Crypto": "Cryptodome"
+    "Crypto": "Cryptodome",
     
     "numpy": "numpy",
-    "numpy.libs": "numpy.libs",
+    "numpy.libs": "numpy.libs"
 }
