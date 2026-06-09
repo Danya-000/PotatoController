@@ -1,13 +1,13 @@
 {
     "MController": "MController",
     "keyboard": "keyboard",
+    "pynput": "pynput",
     
     "PIL": "PIL",
     
     "lz4": "lz4",
     
     "psutil": "psutil",
-    "pynput": "pynput",
     
     "Crypto": "Cryptodome",
     
