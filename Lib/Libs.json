@@ -4,6 +4,7 @@
     "keyboard": "keyboard",
     "lz4": "lz4",
     "numpy": "numpy",
+    "numpy.libs": "numpy.libs",
     "psutil": "psutil",
     "pynput": "pynput"
 }
